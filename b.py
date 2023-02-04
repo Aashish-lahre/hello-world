@@ -1,6 +1,3 @@
-print('hello world')
-print('hello ashish')
-print('hello you')
-
-a = 4444
-print(a)
+a = int(input('Integer till iterate : '))
+for i in range(a):
+    print(i)
