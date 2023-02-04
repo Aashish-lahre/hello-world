@@ -1,3 +1,4 @@
-print('hello world')
-print('hello ashish')
-print('hello you')
+# practicing github 
+
+for i in range(100):
+    print(i)
